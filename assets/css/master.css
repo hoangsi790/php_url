@@ -1,0 +1,2 @@
+#wrapper { height: 100%; position: fixed; width:100%;}
+#input_url { top: 50%; position: relative; -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); transform: translateY(-50%); }
